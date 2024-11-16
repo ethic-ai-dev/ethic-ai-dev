@@ -11,11 +11,11 @@
     <td>Algorithm</td>
   </tr>
   <tr>    
-    <td>Data Structure</td>
-    <td>Linguistics</td>
-    <td>Regression</td>
+    <td>Data Insight</td>
+    <td>NLP</td>
+    <td>Computer Vision</td>
     <td>Reinforcement Learning</td>
-    <td></td>
+    <td>Cloud</td>
   </tr>
 </table>
 
